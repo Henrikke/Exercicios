@@ -1,3 +1,5 @@
 # Mostra Frase na Tela
 
-print('Ola Mundo')
+print(f'Ola Mundo')
+print('Testando a função print')
+
